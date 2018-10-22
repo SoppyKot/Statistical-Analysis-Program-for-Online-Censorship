@@ -37,3 +37,9 @@ We conclude that the issue is not a religious issue
 Then we further go on to check for majorities in various other categories (* that we get from the reporter’s personal info i.e., input 2) like Gender of the reporter , region , if they follow any one famous  personality, etc etc etc
 
 Now, for reports that specify the posts as fake or which contain violence, we simply could declare them as confirmed spam if they are declared the same for more than 60%(for example) of the total reports because these can’t enter our scrutinizing procedure as we can’t conclude that they are confirmed spam just from reporter’s info 
+
+
+Program usage instructions:
+The program is written in C and needs to be compiled first.
+After compilation, run the program through the command line by providing the two text files as arguments.
+The first argument should be the file in which information about the content  is present and the second argument should be the file which contains information about the users who have reported that particular content.
