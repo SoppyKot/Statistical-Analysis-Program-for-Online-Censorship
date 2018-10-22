@@ -1,0 +1,5 @@
+`Reporter_1;Religion-Hinduism;Age-16;Region-Nallakunta;
+`Reporter_2;Religion-Sikhism;Age-25;Region-Kompally;
+`Reporter_3;Religion-Hinduism;Age-68;Region-Bachupally;
+`Reporter_4;Religion-Zoroastrianism;Age-58;Region-Nallakunta;
+`Reporter_5;Religion-Sikhism;Age-60;Region-Kompally;
